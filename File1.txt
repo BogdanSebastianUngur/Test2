@@ -1,1 +1,2 @@
-New line of the code
+Changed line of code,
+Life is beautiful
